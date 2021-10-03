@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* タブレット */
-@media screen and (max-width: 767px) { /*ウィンドウ幅が最大767pxまでの場合に適用*/
+@media screen and (min-width: 600px) { /*ウィンドウ幅が最大600pxまでの場合に適用*/
 
 }
 

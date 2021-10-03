@@ -1,4 +1,8 @@
 @charset "UTF-8";
+/* タブレット */
+@media screen and (max-width: 767px) { /*ウィンドウ幅が最大767pxまでの場合に適用*/
+
+}
 
 /*ここからデザインを開始*/
 body {
